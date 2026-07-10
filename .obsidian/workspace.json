@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "f5d5be036b18d388",
+        "id": "7a198d999c6f6ffe",
         "type": "tabs",
         "children": [
           {
-            "id": "c0e7bf417ecf3800",
+            "id": "f3cc2d901f4f7cb1",
             "type": "leaf",
             "state": {
               "type": "empty",
@@ -176,8 +176,40 @@
       "bases:Create new base": false
     }
   },
-  "active": "c0e7bf417ecf3800",
+  "active": "5a6c08f6b547857f",
   "lastOpenFiles": [
+    "raw/How to Build an AI Second Brain. Guide from Andrej Karpathy..md",
+    "index.md",
+    "log.md",
+    "wiki/overview.md",
+    "raw/karpathy-llm-wiki-gist.md",
+    "wiki/entities/obsidian.md",
+    "wiki/sources/llm-wiki-pattern-source.md",
+    "templates/entity.md",
+    "templates/concept.md",
+    "wiki/entities/qmd.md",
+    "wiki/entities/vannevar-bush.md",
+    "wiki/entities/andrej-karpathy.md",
+    "wiki/concepts/memex.md",
+    "wiki/concepts/index-and-log.md",
+    "wiki/concepts/wiki-operations.md",
+    "wiki/concepts/three-layer-architecture.md",
+    "wiki/concepts/rag.md",
+    "wiki/concepts/llm-wiki-pattern.md",
+    "wiki/sources/llm-wiki-pattern.md",
+    "raw/llm-wiki-pattern.md",
+    "templates/log-entry.md",
+    "templates/synthesis.md",
+    "templates/source-summary.md",
+    "CLAUDE.md",
+    "templates",
+    "wiki/syntheses",
+    "wiki/sources",
+    "wiki/entities",
+    "wiki/concepts",
+    "wiki",
+    "raw/assets",
+    "raw",
     "Welcome.md"
   ]
 }
