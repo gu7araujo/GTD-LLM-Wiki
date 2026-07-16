@@ -1,6 +1,6 @@
 ---
 type: log
-updated: 2026-07-10
+updated: 2026-07-11
 ---
 
 # Log
@@ -17,6 +17,31 @@ Header format: `## [YYYY-MM-DD] <op> | <title>` where `<op>` ∈ `ingest` · `qu
 See [[index]] for the content catalog and [[overview]] for the big picture.
 
 ---
+
+## [2026-07-11] query  | How to deal with internal agreements (GTD)?
+
+- Answered entirely from [[open-loops]] (aliases already covered "acordos internos"): stress mechanism (p42–46), the three options for broken agreements — don't make / keep / renegotiate (p283–286), and Baumeister's finding that a trusted plan releases the burden without completion (p319).
+- No new pages filed: the concept page already held the full answer.
+
+## [2026-07-11] query  | What does the GTD book say about the weekly review?
+
+- Answered entirely from [[weekly-review]] (verbatim quotes, pp. 80, 231–236, 343) — no re-read of `raw/` needed; the quote-retrieval convention worked as intended.
+- No new pages filed: the concept page already held the full answer, so a synthesis would duplicate it.
+
+## [2026-07-11] ingest | Getting Things Done (A arte de fazer acontecer) — book notes
+
+- **Read:** [[raw/allen-gtd-book-notes]] in full — Gustavo's reading notes of David Allen's GTD (Brazilian revised ed.), 1,085 lines with page cites p14–p343, incl. the appendix glossary.
+- **Created (17 pages):**
+  - Source: [[allen-gtd-book-notes-source]]
+  - Entity: [[david-allen]]
+  - Concepts: [[gtd-method]] (hub), [[gtd-glossary]], [[capture]], [[clarify]], [[organize]], [[reflect]], [[engage]], [[weekly-review]], [[next-action]], [[open-loops]], [[natural-planning-model]], [[brainstorming]], [[mind-like-water]], [[horizons-of-focus]], [[distributed-cognition]]
+- **Updated:** [[overview]] (GTD cluster + cross-domain thesis note), [[memex]] and [[llm-wiki-pattern]] (link to [[distributed-cognition]]), [[index]].
+- **Decisions (per Gustavo's direction — optimize for quote-retrieval):**
+  - Every GTD concept page carries **verbatim Portuguese quotes with page numbers** under "What the book says", plus the term's glossary definition (p343) up top — so "what does the book say about X?" is answerable with quotes from the wiki alone.
+  - [[gtd-glossary]] transcribes the whole appendix glossary verbatim, each term linked to its full page — the designated go-to entry point.
+  - **New convention:** bilingual `aliases:` frontmatter (e.g. `capturar`/`capture phase`) for PT/EN retrieval. Worth adopting vault-wide.
+  - Page names in English kebab-case, H1 shows both languages; provenance callout on the source page notes quotes are from reading notes (possible paraphrase).
+  - Red link left for [[roy-baumeister]]; Drucker quote (p45) left unattributed since the notes don't attribute it.
 
 ## [2026-07-10] ingest | LLM Wiki — Karpathy gist (seed source)
 

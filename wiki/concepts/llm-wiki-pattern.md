@@ -2,7 +2,7 @@
 type: concept
 tags: [llm-wiki, knowledge-management]
 created: 2026-07-10
-updated: 2026-07-10
+updated: 2026-07-11
 sources: ["[[llm-wiki-pattern-source]]"]
 ---
 
@@ -35,6 +35,8 @@ Its structure is the [[three-layer-architecture]]; its verbs are the three [[wik
 - **Contrast:** [[rag]] — retrieval without accumulation; the thing this pattern improves on.
 - **Ancestor:** [[memex]] — Vannevar Bush's 1945 vision of associative trails; the LLM solves the
   "who does the maintenance" problem Bush couldn't.
+- **Psychology:** [[distributed-cognition]] — GTD's name for the same move ("extensão da mente",
+  per [[allen-gtd-book-notes-source]]); the wiki is to knowledge what a GTD system is to commitments.
 - **Mechanism:** [[three-layer-architecture]], [[wiki-operations]], [[index-and-log]].
 - **Author / tools:** [[andrej-karpathy]], [[obsidian]], [[qmd]].
 - **Metaphor:** Obsidian is the IDE, the LLM is the programmer, the wiki is the codebase.

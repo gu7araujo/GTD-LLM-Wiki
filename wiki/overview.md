@@ -2,8 +2,8 @@
 type: overview
 tags: [llm-wiki, meta]
 created: 2026-07-10
-updated: 2026-07-10
-sources: ["[[llm-wiki-pattern-source]]"]
+updated: 2026-07-11
+sources: ["[[llm-wiki-pattern-source]]", "[[allen-gtd-book-notes-source]]"]
 ---
 
 # Overview
@@ -27,24 +27,36 @@ doubles as the reference for how the system should work. The working claims so f
 - Persistent, compounding wikis beat query-time [[rag|RAG]] for knowledge that accumulates over time.
 - The value is in **maintenance the LLM does for free**: cross-refs, contradiction flags, consistency.
 - At this scale, [[index-and-log|index-first navigation]] is enough — no search engine ([[qmd]]) needed yet.
+- **First real domain is in: GTD.** The vault now holds David Allen's method as a quote-retrievable
+  cluster ([[gtd-method]] hub + [[gtd-glossary]] + one page per term). Emerging cross-domain claim:
+  GTD and the LLM Wiki are the **same move in different domains** — [[distributed-cognition]]
+  (externalize into a trusted, regularly reviewed system) applied to commitments vs. knowledge.
+  Even the maintenance rituals rhyme: [[weekly-review]] ↔ wiki lint.
 
-_This thesis will evolve as real domain sources (beyond the meta seed) are ingested._
+_This thesis will evolve as more domain sources are ingested._
 
 ## Map of the wiki
 
-**Concepts** — the ideas
+**Concepts — meta (the LLM Wiki itself)**
 - [[llm-wiki-pattern]] — the core pattern (vs [[rag]])
 - [[three-layer-architecture]] — raw → wiki → schema
 - [[wiki-operations]] — ingest / query / lint
 - [[index-and-log]] — the two navigation files
 - [[memex]] — the 1945 antecedent
 
+**Concepts — GTD (productivity)**
+- [[gtd-method]] — hub: the five steps and the method's promise
+- [[gtd-glossary]] — the book's term glossary, verbatim (go-to for "what does the book say about X?")
+- The five steps: [[capture]] · [[clarify]] · [[organize]] · [[reflect]] · [[engage]]
+- Key practices & ideas: [[weekly-review]], [[next-action]], [[open-loops]], [[natural-planning-model]], [[brainstorming]], [[mind-like-water]], [[horizons-of-focus]], [[distributed-cognition]]
+
 **Entities** — the people & tools
-- People: [[andrej-karpathy]], [[vannevar-bush]]
+- People: [[andrej-karpathy]], [[vannevar-bush]], [[david-allen]]
 - Tools: [[obsidian]] (the front-end), [[qmd]] (optional search)
 
 **Sources** — what's been ingested
 - [[llm-wiki-pattern-source]] — Karpathy's "LLM Wiki" gist (seed)
+- [[allen-gtd-book-notes-source]] — GTD book notes (Brazilian edition, with page cites)
 
 **Syntheses** — kept answers & analyses
 - _(none yet — the first good query answer filed here will seed this section)_

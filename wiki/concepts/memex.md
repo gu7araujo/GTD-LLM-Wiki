@@ -2,7 +2,7 @@
 type: concept
 tags: [llm-wiki, history, ideas]
 created: 2026-07-10
-updated: 2026-07-10
+updated: 2026-07-11
 sources: ["[[llm-wiki-pattern-source]]"]
 ---
 
@@ -29,6 +29,7 @@ associative trails is relentless work. The LLM handles exactly that, making Bush
 - **Descendant:** [[llm-wiki-pattern]] — the modern, LLM-maintained realization.
 - **Author:** [[vannevar-bush]].
 - **Contrast:** the public, un-curated web — what actually emerged instead of the Memex.
+- **Parallel lineage:** GTD's [[distributed-cognition]] — externalizing *commitments* instead of *knowledge*; same "extension of the mind" move (per [[allen-gtd-book-notes-source]]).
 
 ## Sources
 

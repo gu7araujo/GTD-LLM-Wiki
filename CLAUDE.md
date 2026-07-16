@@ -137,6 +137,15 @@ sources: ["[[source-a]]", "[[source-b]]"]
 
 Always bump `updated:` when you edit a page. Never change `created:`.
 
+**Aliases for retrieval.** Concept/entity pages may add an `aliases:` list (Obsidian-native) with
+alternate names, translations, and likely query phrasings (e.g. `aliases: [capturar, capture phase]`).
+Sources in other languages keep quotes verbatim in the original language; aliases bridge the
+language gap so search hits the right page. (Adopted 2026-07-11 during the GTD ingest.)
+
+**Quote-retrievable sources.** When the human wants to query a source's own words ("what does the
+book say about X?"), concept pages carry verbatim quotes with page/section cites under a
+"What the book says" heading, rather than paraphrase alone.
+
 ### Contradictions & provenance
 - When a new source contradicts an existing claim, **do not silently overwrite.** Keep both, attribute
   each to its source, and add a `> [!warning] Contradiction` callout explaining the tension.
