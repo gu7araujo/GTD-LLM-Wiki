@@ -1,6 +1,6 @@
 ---
 type: index
-updated: 2026-07-11
+updated: 2026-07-16
 ---
 
 # Index
@@ -10,7 +10,7 @@ the **first thing to read when answering a query**: scan here to find relevant p
 Updated on every ingest, query-that-files-a-page, and lint. See `CLAUDE.md` for conventions, [[overview]]
 for the big picture, and [[log]] for the timeline.
 
-**Counts:** 2 sources · 3 entities (people) · 2 entities (tools) · 19 concepts · 0 syntheses
+**Counts:** 2 sources · 3 entities (people) · 2 entities (tools) · 19 concepts · 1 synthesis
 
 ---
 
@@ -60,7 +60,7 @@ for the big picture, and [[log]] for the timeline.
 - [[distributed-cognition]] — "extensão da mente"; the bridge between GTD and the [[llm-wiki-pattern]].
 
 ## Syntheses — `wiki/syntheses/`
-- _(none yet — filed query answers, comparisons, and discovered connections will be cataloged here.)_
+- [[separate-the-phases]] — why GTD's five steps must be run as separate passes, not all at once (p59). `2026-07-16`
 
 ## Red links to fill (mentioned, no page yet)
 - [[dataview]] · [[marp]] · [[obsidian-web-clipper]] · [[notebooklm]] · [[tolkien-gateway]] · [[roy-baumeister]]

@@ -3,7 +3,7 @@ type: concept
 aliases: [organizar, organize phase, someday maybe, algum dia talvez, aguardando resposta, waiting for, calendário, calendar, listas de próximas ações, material de referência, contextos, contexts]
 tags: [gtd, productivity]
 created: 2026-07-11
-updated: 2026-07-11
+updated: 2026-07-16
 sources: ["[[allen-gtd-book-notes-source]]"]
 ---
 
@@ -70,7 +70,7 @@ Em qualquer lugar · Assuntos a tratar · Ler/Revisar.
 
 ## How it relates to other ideas
 
-- Receives the decisions made in [[clarify]]; feeds the reviews in [[reflect]] and the choices in [[engage]].
+- Receives the decisions made in [[clarify]]; feeds the reviews in [[reflect]] and the choices in [[engage]]. Kept as its own pass, not blended with capture/clarify: [[separate-the-phases]].
 - Context lists power the four-criteria model in [[engage]].
 - Someday/Maybe and Waiting For are reviewed in the [[weekly-review]].
 - Full term definitions: [[gtd-glossary]].

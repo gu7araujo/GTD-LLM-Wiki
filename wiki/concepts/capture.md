@@ -3,7 +3,7 @@ type: concept
 aliases: [capturar, coletar, collect, capture phase, caixa de entrada, inbox]
 tags: [gtd, productivity]
 created: 2026-07-11
-updated: 2026-07-11
+updated: 2026-07-16
 sources: ["[[allen-gtd-book-notes-source]]"]
 ---
 
@@ -58,7 +58,7 @@ Capture everything precisely because not everything is equally important:
 
 ## How it relates to other ideas
 
-- Emptying the inbox is the next step: [[clarify]].
+- Emptying the inbox is the next step: [[clarify]] — but do it as a *separate* pass: [[separate-the-phases]].
 - What capture manages: [[open-loops]].
 - During [[brainstorming]], capture works without judgment — same muscle, creative mode.
 - The external system as mind-extension: [[distributed-cognition]].
