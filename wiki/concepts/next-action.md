@@ -3,7 +3,7 @@ type: concept
 aliases: [próxima ação, next actions, qual é a próxima ação]
 tags: [gtd, productivity]
 created: 2026-07-11
-updated: 2026-07-11
+updated: 2026-07-25
 sources: ["[[allen-gtd-book-notes-source]]"]
 ---
 
@@ -64,6 +64,7 @@ Lists decay back into "stuff" when items aren't at action level:
 - The final phase of the [[natural-planning-model]] — deciding next actions for every independent moving part (p110).
 - Pairs with the desired outcome as GTD's two essential elements (p50) — see [[gtd-method]].
 - Undefined next actions are what keep [[open-loops]] open.
+- Applied to a note template for processing inbox items: [[inbox-processing-template]].
 
 ## Sources
 

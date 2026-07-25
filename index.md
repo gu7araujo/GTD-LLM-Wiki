@@ -1,6 +1,6 @@
 ---
 type: index
-updated: 2026-07-16
+updated: 2026-07-25
 ---
 
 # Index
@@ -10,7 +10,7 @@ the **first thing to read when answering a query**: scan here to find relevant p
 Updated on every ingest, query-that-files-a-page, and lint. See `CLAUDE.md` for conventions, [[overview]]
 for the big picture, and [[log]] for the timeline.
 
-**Counts:** 2 sources · 3 entities (people) · 2 entities (tools) · 19 concepts · 1 synthesis
+**Counts:** 2 sources · 3 entities (people) · 2 entities (tools) · 19 concepts · 2 syntheses
 
 ---
 
@@ -61,6 +61,7 @@ for the big picture, and [[log]] for the timeline.
 
 ## Syntheses — `wiki/syntheses/`
 - [[separate-the-phases]] — why GTD's five steps must be run as separate passes, not all at once (p59). `2026-07-16`
+- [[inbox-processing-template]] — what fields a note template should have for processing an inbox item: propósito/princípios/resultado/próxima ação from [[natural-planning-model]], plus the "exige ação?" tree missing from it. `2026-07-25`
 
 ## Red links to fill (mentioned, no page yet)
 - [[dataview]] · [[marp]] · [[obsidian-web-clipper]] · [[notebooklm]] · [[tolkien-gateway]] · [[roy-baumeister]]

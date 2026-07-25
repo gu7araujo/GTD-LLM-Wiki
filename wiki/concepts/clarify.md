@@ -3,7 +3,7 @@ type: concept
 aliases: [esclarecer, processar, process, clarify phase, two-minute rule, regra dos dois minutos]
 tags: [gtd, productivity]
 created: 2026-07-11
-updated: 2026-07-16
+updated: 2026-07-25
 sources: ["[[allen-gtd-book-notes-source]]"]
 ---
 
@@ -63,6 +63,7 @@ One item at a time:
 - Input comes from [[capture]]; outputs get filed by [[organize]] (lixo, incubação, referência, calendário, listas) — each a distinct pass, not all at once: [[separate-the-phases]].
 - The heart of the step is the [[next-action]] decision.
 - The clarifying questions echo the outcome+action pair of the [[gtd-method]] (p50).
+- Applied to a note template for processing inbox items: [[inbox-processing-template]].
 
 ## Sources
 

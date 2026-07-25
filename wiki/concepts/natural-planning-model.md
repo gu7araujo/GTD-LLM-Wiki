@@ -3,7 +3,7 @@ type: concept
 aliases: [modelo de planejamento natural, natural planning, cinco fases do planejamento, five phases of project planning, propósito, visão resultado, planejamento reativo, reactive planning]
 tags: [gtd, productivity, planning]
 created: 2026-07-11
-updated: 2026-07-11
+updated: 2026-07-25
 sources: ["[[allen-gtd-book-notes-source]]"]
 ---
 
@@ -101,6 +101,7 @@ Most planning should be informal — "verso de envelope":
 - This is **vertical focus**; the day-to-day five steps of the [[gtd-method]] are **horizontal focus** (p88).
 - Phases 1–2 and the top [[horizons-of-focus]] are the same questions at different scales.
 - Which projects deserve it: the ones still on your mind after a [[next-action]] is set, and the ones attracting random ideas (p268).
+- Applied to a note template for processing inbox items: [[inbox-processing-template]].
 
 ## Sources
 

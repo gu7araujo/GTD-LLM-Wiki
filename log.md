@@ -18,6 +18,12 @@ See [[index]] for the content catalog and [[overview]] for the big picture.
 
 ---
 
+## [2026-07-25] query  | What fields should a note template for processing an inbox item include, per GTD?
+
+- Answered from [[natural-planning-model]] (propósito/princípios/visão/próxima ação, p88-112) and [[clarify]] (the prior "exige ação?" decision tree, 2-min rule, delegate, p66, 158-160) — no re-read of `raw/` needed.
+- Filed [[inbox-processing-template]] as a synthesis; wired inbound links + bumped `updated:` on [[gtd-method]], [[clarify]], [[next-action]], [[natural-planning-model]].
+- Updated [[index]] (added synthesis, count 1→2 syntheses).
+
 ## [2026-07-16] query  | What does the GTD book say about not doing the whole process at once?
 
 - Answered from [[gtd-method]] (verbatim p59 quote) and [[allen-gtd-book-notes-source]] (p59, "the five steps must be separated in time"); no re-read of `raw/` needed.
