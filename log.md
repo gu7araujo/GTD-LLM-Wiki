@@ -18,6 +18,12 @@ See [[index]] for the content catalog and [[overview]] for the big picture.
 
 ---
 
+## [2026-08-31] query  | Where is the early-book exercise for capturing and processing an internal agreement?
+
+- Located it in `raw/allen-gtd-book-notes.md` (lines 97–103, Ch.1 ~p43): "Um importante exercício para testar esse modelo" — three steps: capture the loop → define outcome → decide next action.
+- Filed [[gtd-open-loop-exercise]] as a synthesis; distinguished it from the Ch.3 [[natural-planning-model]] exercise (~p93). Wired inbound link from [[open-loops]].
+- Updated [[index]] (added synthesis, count 2→3 syntheses).
+
 ## [2026-07-25] query  | What fields should a note template for processing an inbox item include, per GTD?
 
 - Answered from [[natural-planning-model]] (propósito/princípios/visão/próxima ação, p88-112) and [[clarify]] (the prior "exige ação?" decision tree, 2-min rule, delegate, p66, 158-160) — no re-read of `raw/` needed.

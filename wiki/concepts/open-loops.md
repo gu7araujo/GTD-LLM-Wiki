@@ -61,6 +61,7 @@ The motto:
 ## How it relates to other ideas
 
 - Managed by [[capture]] → [[clarify]] → [[organize]]; kept trusted by [[reflect]] / the [[weekly-review]].
+- The [[gtd-open-loop-exercise|"important exercise" (p43)]] runs one loop through capture → outcome → next action to demonstrate the model.
 - Loops stay open when the [[next-action]] or outcome is undefined (p46).
 - Closing loops externally is [[distributed-cognition]] in practice.
 - The reward for closed loops is [[mind-like-water]].
