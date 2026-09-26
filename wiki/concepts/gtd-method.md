@@ -3,7 +3,7 @@ type: concept
 aliases: [GTD, Getting Things Done, A arte de fazer acontecer, five steps, cinco passos]
 tags: [gtd, productivity]
 created: 2026-07-11
-updated: 2026-07-25
+updated: 2026-09-26
 sources: ["[[allen-gtd-book-notes-source]]"]
 ---
 
@@ -72,6 +72,7 @@ GTD is bottom-up by design:
 - The five steps must be run as separate passes, not all at once: [[separate-the-phases]].
 - Meta: this vault's own [[llm-wiki-pattern]] is itself a trusted external system — see [[distributed-cognition]].
 - Applied to a note template for processing inbox items: [[inbox-processing-template]].
+- This horizontal step vs. vertical [[natural-planning-model|"verso de envelope"]] planning, field by field: [[horizontal-vs-vertical-planning]].
 
 ## Sources
 

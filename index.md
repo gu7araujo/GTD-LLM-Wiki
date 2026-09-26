@@ -1,6 +1,6 @@
 ---
 type: index
-updated: 2026-07-25
+updated: 2026-09-26
 ---
 
 # Index
@@ -10,7 +10,7 @@ the **first thing to read when answering a query**: scan here to find relevant p
 Updated on every ingest, query-that-files-a-page, and lint. See `CLAUDE.md` for conventions, [[overview]]
 for the big picture, and [[log]] for the timeline.
 
-**Counts:** 2 sources · 3 entities (people) · 2 entities (tools) · 19 concepts · 3 syntheses
+**Counts:** 2 sources · 3 entities (people) · 2 entities (tools) · 19 concepts · 4 syntheses
 
 ---
 
@@ -53,7 +53,7 @@ for the big picture, and [[log]] for the timeline.
 - [[weekly-review]] — "a chave mágica da sustentabilidade do processo"; what/why/when/where.
 - [[next-action]] — the signature question; the 10-second gap, smart-people procrastination, meetings.
 - [[open-loops]] — laços abertos / internal agreements; the stress mechanism GTD solves; Baumeister.
-- [[natural-planning-model]] — the five planning phases + unnatural/reactive anti-patterns.
+- [[natural-planning-model]] — the five planning phases, the informal "verso de envelope" mode (vertical focus), + unnatural/reactive anti-patterns.
 - [[brainstorming]] — the *how* phase; capture keys (no judgment, quantity, defer analysis); mind maps.
 - [[mind-like-water]] — the promised state; martial-arts ready position; flow theory.
 - [[horizons-of-focus]] — the six altitudes (Térreo → Horizonte 5), from the glossary.
@@ -61,7 +61,8 @@ for the big picture, and [[log]] for the timeline.
 
 ## Syntheses — `wiki/syntheses/`
 - [[separate-the-phases]] — why GTD's five steps must be run as separate passes, not all at once (p59). `2026-07-16`
-- [[inbox-processing-template]] — what fields a note template should have for processing an inbox item: propósito/princípios/resultado/próxima ação from [[natural-planning-model]], plus the "exige ação?" tree missing from it. `2026-07-25`
+- [[inbox-processing-template]] — what fields a note template should have for processing an inbox item: propósito/princípios/resultado/próxima ação from [[natural-planning-model]], plus the "exige ação?" tree missing from it. `2026-09-26`
+- [[horizontal-vs-vertical-planning]] — whether the "verso de envelope" questions are the same as the inbox ones: the core four are shared (phases 1/2/5), the [[clarify]] tree is not; field-by-field table. `2026-09-26`
 - [[gtd-open-loop-exercise]] — the Chapter 1 "important exercise" (p43): capture one internal agreement, then clarify it into outcome + next action; distinguished from the Chapter 3 planning-model exercise. `2026-08-31`
 
 ## Red links to fill (mentioned, no page yet)

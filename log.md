@@ -1,6 +1,6 @@
 ---
 type: log
-updated: 2026-07-11
+updated: 2026-09-26
 ---
 
 # Log
@@ -15,6 +15,16 @@ grep "^## \[" log.md | head -5     # the 5 most recent entries
 
 Header format: `## [YYYY-MM-DD] <op> | <title>` where `<op>` ∈ `ingest` · `query` · `lint`.
 See [[index]] for the content catalog and [[overview]] for the big picture.
+
+---
+
+## [2026-09-26] query  | What do the notes say about back-of-envelope planning, and is it the same as inbox processing?
+
+- Answered from the wiki: "verso de envelope" was only a four-line aside on [[natural-planning-model]]; located the full text in `raw/allen-gtd-book-notes.md` (pp. 88-90, 109, 271-272).
+- Expanded [[natural-planning-model]] with a "Back-of-envelope planning" section (three verbatim quotes, the phase-4 tool-scale point, writing-tools-at-hand) and added `verso de envelope` / `back-of-envelope` / `foco vertical` aliases — the term was previously unretrievable.
+- Filed the follow-up first into [[inbox-processing-template]], then **moved** it out to a new synthesis [[horizontal-vs-vertical-planning]]: the host page's `question:` frontmatter covers template fields only, so the comparison was mis-filed and invisible when browsing Syntheses. Left a pointer paragraph behind.
+- Named for the comparison, not `back-of-envelope-planning`, to avoid pulling readers away from the concept layer ([[natural-planning-model]]) — the concept itself stays there, unduplicated.
+- Wired inbound links from [[natural-planning-model]], [[clarify]], [[gtd-method]] and [[inbox-processing-template]]. Updated [[index]] (syntheses 3→4).
 
 ---
 

@@ -4,7 +4,7 @@ question: "What fields should a note template for processing an inbox item inclu
 aliases: [template de processamento, inbox processing template, campos do template de captura, esclarecer template]
 tags: [gtd, productivity, template]
 created: 2026-07-25
-updated: 2026-07-25
+updated: 2026-09-26
 sources: ["[[allen-gtd-book-notes-source]]"]
 ---
 
@@ -58,6 +58,13 @@ Detalhe de design importante: **"Até que nível você precisa detalhar? Tanto q
 tirar um projeto da sua mente"** (p111) — a maioria dos itens de inbox são ações únicas que só
 precisam de "exige ação? → próxima ação", não do template completo de 5 campos.
 
+## Relation to vertical / back-of-envelope planning
+
+The core four fields (propósito / princípios / resultado / próxima ação) are shared with the informal
+[[natural-planning-model|planejamento "verso de envelope"]] — they *are* phases 1, 2 and 5 — but the
+[[clarify]] tree above is horizontal and does not transfer. Full field-by-field comparison and the
+two-templates-or-a-gate design implication: [[horizontal-vs-vertical-planning]].
+
 ## Supporting detail
 
 Ver o texto completo com citações verbatim em [[clarify]] (árvore de decisão, regra dos 2 minutos,
@@ -68,6 +75,6 @@ navegação, e quando parar de detalhar).
 
 - [[clarify]] — "exige ação?", regra dos 2 minutos, delegar/monitorar (p66, 158-160).
 - [[next-action]] — definição, "10 segundos", por que listas viram "coisas" de novo sem próxima ação clara (p66, 292-302).
-- [[natural-planning-model]] — as cinco fases, propósito/princípios/visão/brainstorming/organização, regra de navegação, quanto detalhar (p88-112).
+- [[natural-planning-model]] — as cinco fases, propósito/princípios/visão/brainstorming/organização, regra de navegação, quanto detalhar, e o planejamento "verso de envelope" (p88-112, 271-272).
 - [[gtd-method]] — definição de projeto (p50), os cinco passos horizontais vs. planejamento vertical.
 - [[allen-gtd-book-notes-source]] (pp. 47-50, 65-66, 88-112, 158-160, 292-302, 343).

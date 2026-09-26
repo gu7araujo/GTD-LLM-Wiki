@@ -3,7 +3,7 @@ type: concept
 aliases: [esclarecer, processar, process, clarify phase, two-minute rule, regra dos dois minutos]
 tags: [gtd, productivity]
 created: 2026-07-11
-updated: 2026-07-25
+updated: 2026-09-26
 sources: ["[[allen-gtd-book-notes-source]]"]
 ---
 
@@ -64,6 +64,7 @@ One item at a time:
 - The heart of the step is the [[next-action]] decision.
 - The clarifying questions echo the outcome+action pair of the [[gtd-method]] (p50).
 - Applied to a note template for processing inbox items: [[inbox-processing-template]].
+- This horizontal step vs. vertical [[natural-planning-model|"verso de envelope"]] planning, field by field: [[horizontal-vs-vertical-planning]].
 
 ## Sources
 

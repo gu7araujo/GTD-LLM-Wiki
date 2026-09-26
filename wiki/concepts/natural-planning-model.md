@@ -1,9 +1,9 @@
 ---
 type: concept
-aliases: [modelo de planejamento natural, natural planning, cinco fases do planejamento, five phases of project planning, propósito, visão resultado, planejamento reativo, reactive planning]
+aliases: [modelo de planejamento natural, natural planning, cinco fases do planejamento, five phases of project planning, propósito, visão resultado, planejamento reativo, reactive planning, verso de envelope, planejamento verso de envelope, back-of-envelope planning, back of the envelope, guardanapo, napkin planning, foco vertical, vertical focus]
 tags: [gtd, productivity, planning]
 created: 2026-07-11
-updated: 2026-07-25
+updated: 2026-09-26
 sources: ["[[allen-gtd-book-notes-source]]"]
 ---
 
@@ -81,9 +81,33 @@ Navigation rule — stuck? move along the scale:
 
 > Se é de mais ação que você precisa, avance na escala do modelo. p112
 
-Most planning should be informal — "verso de envelope":
+## Back-of-envelope planning ("verso de envelope")
 
-> De acordo com minha experiência, esse costuma ser o tipo de planejamento mais produtivo em termos do resultado obtido proporcionalmente à energia empregada. p88-90
+Allen's name for running this whole model **informally** — not a separate technique, just the
+low-ceremony mode of the five phases. It is the entry point to *vertical* focus: horizontal focus
+(outcomes + next actions in a trusted system) covers most situations; vertical focus kicks in only
+when a project needs more rigor (p88).
+
+> Isso não precisa ser complexo, grande parte do raciocínio que você deve desenvolver é informal, o que chamo de planejamento "verso de envelope", o tipo de plano que você esboça literalmente na parte de trás de um envelope ou num guardanapo numa cafeteria com um amigo enquanto conversam. De acordo com minha experiência, esse costuma ser o tipo de planejamento mais produtivo em termos do resultado obtido proporcionalmente à energia empregada. p88-90
+
+The missing piece is not formality:
+
+> No mundo profissional, no que diz respeito ao planejamento de projetos, a maior carência não é de modelos formais. Em vez disso, quase sempre, o que falta é um modelo focado nas pessoas. [...] com muita frequência os participantes de uma reunião precisam de outra reunião, uma sessão do tipo "verso do envelope" ou com um quadro branco, para que, de fato, iniciem o trabalho e tenha o controle do projeto. p88-90
+
+The envelope itself belongs to **phase 4 (organização)** — it sits at the low end of the
+structuring-tool scale, with project-management software at the high end:
+
+> É nessa fase que você pode fazer bom uso das ferramentas de estruturação, que variam desde as listas informais com tópicos rabiscados no verso de um envelope até o mais sofisticado software de planejamento de projetos. p109
+
+Reach for the hierarchy/timeline end only if the project "exigir alta dose de controle objetivo" (p109).
+Keep writing tools within reach so there is never unconscious resistance to thinking (p271), and prefer
+loose sheets over notebooks so pages can go into the inbox (p272).
+
+> [!note] Same questions as inbox processing?
+> The four core fields — propósito / princípios / resultado / próxima ação — are shared, because they
+> *are* phases 1, 2 and 5. But the [[clarify]] decision tree (exige ação? / 2 minutos / delegar /
+> é projeto?) is horizontal and does not apply here: by the time you reach the envelope those are
+> already answered. Full comparison: [[horizontal-vs-vertical-planning]].
 
 ## The anti-patterns
 
@@ -102,6 +126,7 @@ Most planning should be informal — "verso de envelope":
 - Phases 1–2 and the top [[horizons-of-focus]] are the same questions at different scales.
 - Which projects deserve it: the ones still on your mind after a [[next-action]] is set, and the ones attracting random ideas (p268).
 - Applied to a note template for processing inbox items: [[inbox-processing-template]].
+- Horizontal [[clarify]] tree vs. this vertical model, field by field: [[horizontal-vs-vertical-planning]].
 
 ## Sources
 
