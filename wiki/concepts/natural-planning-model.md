@@ -3,7 +3,7 @@ type: concept
 aliases: [modelo de planejamento natural, natural planning, cinco fases do planejamento, five phases of project planning, propósito, visão resultado, planejamento reativo, reactive planning, verso de envelope, planejamento verso de envelope, back-of-envelope planning, back of the envelope, guardanapo, napkin planning, foco vertical, vertical focus]
 tags: [gtd, productivity, planning]
 created: 2026-07-11
-updated: 2026-09-26
+updated: 2026-09-28
 sources: ["[[allen-gtd-book-notes-source]]"]
 ---
 
@@ -26,6 +26,8 @@ The book's worked example is planning a dinner out (p90–92): intention (purpos
 (principles) → a positive image of the evening (vision) → "A que horas devemos ir? Abre hoje à
 noite?" ([[brainstorming]]) → sorting by components/sequence/priority (organization) → "Telefonar
 para o Café Rouge" ([[next-action]]).
+
+Right after, the book asks you to try it on a real project (p93) — see [[natural-planning-exercise]].
 
 ## What the book says, phase by phase
 

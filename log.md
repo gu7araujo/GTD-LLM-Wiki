@@ -1,6 +1,6 @@
 ---
 type: log
-updated: 2026-09-26
+updated: 2026-09-28
 ---
 
 # Log
@@ -15,6 +15,15 @@ grep "^## \[" log.md | head -5     # the 5 most recent entries
 
 Header format: `## [YYYY-MM-DD] <op> | <title>` where `<op>` ∈ `ingest` · `query` · `lint`.
 See [[index]] for the content catalog and [[overview]] for the big picture.
+
+---
+
+## [2026-09-28] query  | Split out the Chapter 3 exercise; mark the Chapter 1 exercise as partial
+
+- [[gtd-open-loop-exercise]]: added a warning callout + table showing the drill covers only [[capture]] and part of [[clarify]] — no [[organize]], [[reflect]], [[engage]]; cited the book's third "exigência básica" (reminder system, raw line 91) that the exercise omits.
+- Corrected an ambiguity: the old note called the Ch. 3 exercise "five-phase" — those are the five *natural-planning* phases, not the five GTD workflow steps. Now stated explicitly on both pages; neither exercise runs the full workflow.
+- Created [[natural-planning-exercise]] (p93, raw line 406): steps mapped to the five phases, verbatim quote, Ch. 1 vs Ch. 3 comparison table.
+- Inbound links from [[gtd-open-loop-exercise]] and [[natural-planning-model]]. Updated [[index]] (syntheses 4→5).
 
 ---
 
