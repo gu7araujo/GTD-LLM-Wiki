@@ -1,6 +1,6 @@
 ---
 type: log
-updated: 2026-09-28
+updated: 2026-09-30
 ---
 
 # Log
@@ -15,6 +15,14 @@ grep "^## \[" log.md | head -5     # the 5 most recent entries
 
 Header format: `## [YYYY-MM-DD] <op> | <title>` where `<op>` ∈ `ingest` · `query` · `lint`.
 See [[index]] for the content catalog and [[overview]] for the big picture.
+
+---
+
+## [2026-09-30] query  | What does GTD say about brainstorming — how, tools, organizing afterward?
+
+- Answered from [[brainstorming]]. It lacked several passages in `raw/allen-gtd-book-notes.md`, so I filled them in there instead of creating a synthesis. The page still answers "what is brainstorming".
+- Added: writing-tools rationale (p271–272), whiteboard incubation (p273), software warnings (p277), random ideas and capture (p268, p270), handoff to organization (p106–110), stalled-session diagnostics and "how much" (p111–112). Added aliases.
+- Flagged gap: the notes don't cover the book's project-support-material filing. Updated [[index]] entry.
 
 ---
 
