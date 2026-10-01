@@ -4,7 +4,7 @@ question: "Are the back-of-envelope planning questions the same as the ones for 
 aliases: [horizontal vs vertical, foco horizontal e vertical, verso de envelope vs caixa de entrada, back-of-envelope vs inbox, planejamento vertical e horizontal]
 tags: [gtd, productivity, planning]
 created: 2026-09-26
-updated: 2026-09-26
+updated: 2026-10-01
 sources: ["[[allen-gtd-book-notes-source]]"]
 ---
 
@@ -67,4 +67,5 @@ field-level detail for the inbox half lives in [[inbox-processing-template]].
 - [[inbox-processing-template]] — the field-by-field design of the horizontal half.
 - [[gtd-method]] — definição de projeto (p50); the five horizontal steps vs. vertical planning.
 - [[next-action]] — the shared terminal field of both modes.
+- [[purpose-and-principles]] — phase 1 in depth: what the two shared top fields actually ask for.
 - [[allen-gtd-book-notes-source]] (pp. 50, 65-66, 88-112).

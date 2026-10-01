@@ -4,7 +4,7 @@ question: "What is the Chapter 3 exercise for running the natural planning model
 aliases: [tente agora mesmo, exercício do planejamento natural, planning exercise, natural planning exercise, five-phase exercise, exercício das cinco fases, o planejamento natural não é necessariamente normal]
 tags: [gtd, exercise, planning]
 created: 2026-09-28
-updated: 2026-09-28
+updated: 2026-10-01
 sources: ["[[allen-gtd-book-notes-source]]"]
 ---
 
@@ -81,5 +81,6 @@ in between, for projects where outcome + next action alone don't get it off your
 
 - [[allen-gtd-book-notes-source]] — the exercise, p93 (raw line 406); surrounding pp. 90–95.
 - [[natural-planning-model]] — the five phases the exercise walks through.
+- [[purpose-and-principles]] — phase 1, the exercise's opening step ("Pense no propósito").
 - [[gtd-open-loop-exercise]] — the earlier, simpler Chapter 1 drill.
 - [[horizontal-vs-vertical-planning]] — why the planning phases and the GTD workflow steps differ.

@@ -3,7 +3,7 @@ type: concept
 aliases: [horizontes, horizons, áreas de foco, areas of focus, metas e objetivos, visão de longo prazo, propósitos e princípios]
 tags: [gtd, productivity]
 created: 2026-07-11
-updated: 2026-07-11
+updated: 2026-10-01
 sources: ["[[allen-gtd-book-notes-source]]"]
 ---
 
@@ -34,7 +34,7 @@ The six levels, verbatim:
 
 - **Térreo** (ground) is where [[next-action]] lists and the [[engage]] models operate.
 - **Horizonte 1** (Projetos) is the inventory the [[weekly-review]] audits — see [[organize]] for the project definition ("um resultado que requer mais de uma ação", p111).
-- **Horizontes 4–5** mirror the vision and purpose/principles phases of the [[natural-planning-model]] — the same questions at life scale.
+- **Horizontes 4–5** mirror the vision and purpose/principles phases of the [[natural-planning-model]] — the same questions at life scale. Horizonte 5 at project scale: [[purpose-and-principles]].
 - GTD works these levels **bottom-up**: "se você sente que não tem controle sobre seus atuais compromissos que demandam ação, certamente resistirá ao planejamento focado" (p267) — see [[gtd-method]].
 
 > [!question] Data gap

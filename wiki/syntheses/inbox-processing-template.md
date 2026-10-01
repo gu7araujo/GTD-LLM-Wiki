@@ -4,7 +4,7 @@ question: "What fields should a note template for processing an inbox item inclu
 aliases: [template de processamento, inbox processing template, campos do template de captura, esclarecer template]
 tags: [gtd, productivity, template]
 created: 2026-07-25
-updated: 2026-09-26
+updated: 2026-10-01
 sources: ["[[allen-gtd-book-notes-source]]"]
 ---
 
@@ -66,6 +66,9 @@ The core four fields (propósito / princípios / resultado / próxima ação) ar
 two-templates-or-a-gate design implication: [[horizontal-vs-vertical-planning]].
 
 ## Supporting detail
+
+Para os dois primeiros campos (propósito e princípios) — o que cada um pede, o teste da frase
+"Eu daria total liberdade desde que…", e quando vale preenchê-los — ver [[purpose-and-principles]].
 
 Ver o texto completo com citações verbatim em [[clarify]] (árvore de decisão, regra dos 2 minutos,
 delegar/adiar) e [[natural-planning-model]] (as cinco fases, exemplo do jantar fora, regra de

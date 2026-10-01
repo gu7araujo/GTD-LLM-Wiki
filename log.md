@@ -1,6 +1,6 @@
 ---
 type: log
-updated: 2026-09-30
+updated: 2026-10-01
 ---
 
 # Log
@@ -15,6 +15,15 @@ grep "^## \[" log.md | head -5     # the 5 most recent entries
 
 Header format: `## [YYYY-MM-DD] <op> | <title>` where `<op>` ∈ `ingest` · `query` · `lint`.
 See [[index]] for the content catalog and [[overview]] for the big picture.
+
+---
+
+## [2026-10-01] query  | What is thinking about "purpose and principles" for a task/project? Example? Value?
+
+- Answered from [[natural-planning-model]], which covered phase 1 only as a short section: the dinner example wasn't unpacked per phase, the "Eu daria total liberdade desde que…" test had no usable framing, and two of the six benefits of asking why ("alinha recursos", "motiva") were named without quotes.
+- Created [[purpose-and-principles]] — propósito (the *why*, one sentence) vs. princípios (the boundaries), dinner example table, all six benefits verbatim from p96–99, the diagnostic for when to descend to phase 1 (p111–112, 268), the unnatural/reactive anti-patterns, and the Horizonte 5 link.
+- Flagged a terminology collision: "princípios" at p23 (GTD's principles-over-methods) is unrelated to phase-1 project principles. Added a Contradiction-style warning callout.
+- Wired inbound links from [[natural-planning-model]], [[horizons-of-focus]], [[horizontal-vs-vertical-planning]], [[inbox-processing-template]], [[natural-planning-exercise]]. Updated [[index]] (6 syntheses).
 
 ---
 

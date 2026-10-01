@@ -3,7 +3,7 @@ type: concept
 aliases: [modelo de planejamento natural, natural planning, cinco fases do planejamento, five phases of project planning, propósito, visão resultado, planejamento reativo, reactive planning, verso de envelope, planejamento verso de envelope, back-of-envelope planning, back of the envelope, guardanapo, napkin planning, foco vertical, vertical focus]
 tags: [gtd, productivity, planning]
 created: 2026-07-11
-updated: 2026-09-28
+updated: 2026-10-01
 sources: ["[[allen-gtd-book-notes-source]]"]
 ---
 
@@ -32,6 +32,8 @@ Right after, the book asks you to try it on a real project (p93) — see [[natur
 ## What the book says, phase by phase
 
 ### 1a. Purpose (Propósito) — the *why*
+
+Full treatment, with the dinner example unpacked and all six benefits quoted: [[purpose-and-principles]].
 
 > Não custa nada perguntar por quê. Quase tudo que você está fazendo pode ser aprimorado e até reanimado por uma análise minuciosa do por quê. p96
 
@@ -127,6 +129,7 @@ loose sheets over notebooks so pages can go into the inbox (p272).
 - This is **vertical focus**; the day-to-day five steps of the [[gtd-method]] are **horizontal focus** (p88).
 - Phases 1–2 and the top [[horizons-of-focus]] are the same questions at different scales.
 - Which projects deserve it: the ones still on your mind after a [[next-action]] is set, and the ones attracting random ideas (p268).
+- Phase 1 on its own, in depth (what propósito vs. princípios actually are, the "desde que…" test, when to bother): [[purpose-and-principles]].
 - Applied to a note template for processing inbox items: [[inbox-processing-template]].
 - Horizontal [[clarify]] tree vs. this vertical model, field by field: [[horizontal-vs-vertical-planning]].
 
