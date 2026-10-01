@@ -1,9 +1,9 @@
 ---
 type: concept
-aliases: [mapa mental, mind map, chaves do brainstorming]
+aliases: [mapa mental, mind map, chaves do brainstorming, rascunhar ideias, raciocínio aleatório sobre projetos, brainstorming process]
 tags: [gtd, productivity, creativity]
 created: 2026-07-11
-updated: 2026-07-11
+updated: 2026-09-30
 sources: ["[[allen-gtd-book-notes-source]]"]
 ---
 
@@ -52,6 +52,41 @@ Writing instruments always within reach, loose sheets over notebooks, whiteboard
 
 Brainstorming can itself be a [[next-action]] for stuck projects: "Rascunhar ideias sobre..." (p269).
 
+> Mantenha sempre ao alcance bons instrumentos de escrita para que nunca tenha resistência inconsciente às ideias por não ter como capturá-las. p271
+
+> Folhas avulsas são preferíveis a cadernos, pois você vai querer arrancar as páginas com ideias e anotações e colocá-las na caixa de entrada até ter uma chance de processá-las. p272
+
+Whiteboards also let you *incubate*: "podem ser úteis para mantê-las na sua frente por um tempo, enquanto você incuba um tópico" (p273).
+
+Software is allowed, with two warnings (p277):
+
+> Assegure-se de estar confortável com os aplicativos, de modo que possa ficar mais no raciocínio do projeto do que no software em si. Também cabe a você fazer revisões regulares do conteúdo, independentemente de onde ele esteja, e mantê-lo atualizado [...] o computador é um pouco como um buraco negro [...] torna-se cada vez mais fácil arquivar tudo e, assim, perder a orientação coordenada de suas questões ativas. p277
+
+### Random ideas outside a session (raciocínio aleatório)
+
+Projects where "ideias aparecem ao acaso, espontaneamente, quando você está na praia, no carro ou numa reunião" need "um lugar adequado onde essas ideias correlatas possam ser capturas" (p268).
+
+> Emboras muitas vezes não sejam próximas ações específicas que podem ir direto para suas listas de ações, você ainda precisa capturá-las e organizá-las em algum lugar que faça sentido. A ferramenta mais importante para garantir que nada se perca, claro, é o seu sistema de captura [...] p270
+
+### After the session: handing off to organization
+
+> Fazer listas pode ser um recurso criativo. Apenas tenha certeza de registrar tudo até chegar a hora da seleção e da organização do foco, que é a próxima fase. p106
+
+> Se você completou o trabalho de esvaziar a cabeça de todas as coisas que surgiram durante o brainstorming, verá uma organização natural, automaticamente notará as relações naturais e a estrutura. p106-107
+
+Organization = identify the significant parts → sort by sequence and/or priority → detail to the needed level; then decide the [[next-action]] for every "parte em andamento" (p107-110). If more planning is still needed, that is itself a next action ("Esboçar mais ideias", p110). Notes already captured become a next action like "Organizar as anotações do Projeto X" (p269). Full detail: [[natural-planning-model]].
+
+### When the session stalls
+
+> Se não houver clareza no nível do planejamento, é provável que haja necessidade de mais brainstorming para gerar um inventário de ideias e dados a fim de reforçar a confiança no projeto.
+>
+> Se a sessão de brainstorming emperrar por causa de ideias confusas, desloque o foco de volta para a visão dos resultados, garantido que a formação reticular do cérebro seja ativada e aponte o caminho para chegar lá. p112
+
+How much to do: only "tanto quanto for necessário para tirar um projeto da sua mente" (p111). Most projects need no brainstorm at all — only (1) those still nagging after a next action is set and (2) those that attract stray ideas (p268).
+
+> [!warning] Gap in the notes
+> The notes don't cover where project support material is filed long-term (the book's "materiais de apoio a projetos"). [[organize]] has no section on it. Add that section of the book to `raw/` if you need it.
+
 ## How it relates to other ideas
 
 - Sits between vision and organization in the [[natural-planning-model]].
@@ -60,4 +95,4 @@ Brainstorming can itself be a [[next-action]] for stuck projects: "Rascunhar ide
 
 ## Sources
 
-- [[allen-gtd-book-notes-source]] (pp. 90–92, 103–106, 269, 271–273)
+- [[allen-gtd-book-notes-source]] (pp. 90–94, 103–112, 268–273, 277, 311)

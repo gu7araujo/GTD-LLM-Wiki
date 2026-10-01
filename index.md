@@ -1,6 +1,6 @@
 ---
 type: index
-updated: 2026-09-28
+updated: 2026-09-30
 ---
 
 # Index
@@ -54,7 +54,7 @@ for the big picture, and [[log]] for the timeline.
 - [[next-action]] — the signature question; the 10-second gap, smart-people procrastination, meetings.
 - [[open-loops]] — laços abertos / internal agreements; the stress mechanism GTD solves; Baumeister.
 - [[natural-planning-model]] — the five planning phases, the informal "verso de envelope" mode (vertical focus), + unnatural/reactive anti-patterns.
-- [[brainstorming]] — the *how* phase; capture keys (no judgment, quantity, defer analysis); mind maps.
+- [[brainstorming]] — the *how* phase; capture keys (no judgment, quantity, defer analysis); mind maps; tools (paper, whiteboards, software); random ideas; handoff to organization; stalled sessions.
 - [[mind-like-water]] — the promised state; martial-arts ready position; flow theory.
 - [[horizons-of-focus]] — the six altitudes (Térreo → Horizonte 5), from the glossary.
 - [[distributed-cognition]] — "extensão da mente"; the bridge between GTD and the [[llm-wiki-pattern]].
