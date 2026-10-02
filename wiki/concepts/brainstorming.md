@@ -3,7 +3,7 @@ type: concept
 aliases: [mapa mental, mind map, chaves do brainstorming, rascunhar ideias, raciocínio aleatório sobre projetos, brainstorming process]
 tags: [gtd, productivity, creativity]
 created: 2026-07-11
-updated: 2026-09-30
+updated: 2026-10-01
 sources: ["[[allen-gtd-book-notes-source]]"]
 ---
 
@@ -90,6 +90,7 @@ How much to do: only "tanto quanto for necessário para tirar um projeto da sua 
 ## How it relates to other ideas
 
 - Sits between vision and organization in the [[natural-planning-model]].
+- Levantar as *perguntas* que um projeto precisa responder é esta fase — e responder cada uma é a fase 5: [[questions-as-brainstorming]].
 - Uses the same non-judgmental external [[capture]] muscle as inbox capture.
 - Its "extension of the mind" mechanism is [[distributed-cognition]] — which this wiki itself implements ([[llm-wiki-pattern]]).
 

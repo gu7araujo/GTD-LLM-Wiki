@@ -10,7 +10,7 @@ the **first thing to read when answering a query**: scan here to find relevant p
 Updated on every ingest, query-that-files-a-page, and lint. See `CLAUDE.md` for conventions, [[overview]]
 for the big picture, and [[log]] for the timeline.
 
-**Counts:** 2 sources · 3 entities (people) · 2 entities (tools) · 19 concepts · 6 syntheses
+**Counts:** 2 sources · 3 entities (people) · 2 entities (tools) · 19 concepts · 7 syntheses
 
 ---
 
@@ -65,6 +65,7 @@ for the big picture, and [[log]] for the timeline.
 - [[horizontal-vs-vertical-planning]] — whether the "verso de envelope" questions are the same as the inbox ones: the core four are shared (phases 1/2/5), the [[clarify]] tree is not; field-by-field table. `2026-09-26`
 - [[gtd-open-loop-exercise]] — the Chapter 1 "important exercise" (p43): capture one internal agreement, then clarify it into outcome + next action; explicitly does *not* run the full GTD workflow (no organize/reflect/engage). `2026-08-31` · upd `2026-09-28`
 - [[purpose-and-principles]] — phase 1 of the [[natural-planning-model]] on its own: propósito (o *porquê*, uma frase) vs. princípios (as fronteiras, via "Eu daria total liberdade desde que…"); dinner example unpacked, all six benefits of asking why quoted, and when it's worth descending to this phase. `2026-10-01`
+- [[questions-as-brainstorming]] — where the *questions a task needs to answer* fit: raising them is [[brainstorming]] (phase 3, the book defines the *how* phase as a question process, p90-92); grouping is organization, answering is a [[next-action]] ("Pesquisar…"); purpose/vision questions mean you are a phase too low; stray questions are inbox items. `2026-10-01`
 - [[natural-planning-exercise]] — the Chapter 3 "tente agora mesmo" drill (p93): run one project through the five natural-planning phases; comparison table vs. the Ch. 1 exercise. `2026-09-28`
 
 ## Red links to fill (mentioned, no page yet)

@@ -65,6 +65,7 @@ One item at a time:
 - The clarifying questions echo the outcome+action pair of the [[gtd-method]] (p50).
 - Applied to a note template for processing inbox items: [[inbox-processing-template]].
 - This horizontal step vs. vertical [[natural-planning-model|"verso de envelope"]] planning, field by field: [[horizontal-vs-vertical-planning]].
+- A question that pops into your head is an inbox item and runs this tree; *generating* questions for a project does not: [[questions-as-brainstorming]].
 
 ## Sources
 

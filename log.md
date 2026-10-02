@@ -18,6 +18,12 @@ See [[index]] for the content catalog and [[overview]] for the big picture.
 
 ---
 
+## [2026-10-01] query  | Em qual etapa do GTD encaixa o levantamento das perguntas que a tarefa precisa responder?
+
+- Answered from the wiki: yes, phase 3 of [[natural-planning-model]] — the book *defines* the *how* phase as a question process (p90-92), and the dinner example's brainstorm is literally a list of questions.
+- Three distinctions filed: raising = [[brainstorming]] (fase 3) · grouping = [[organize]] (fase 4) · answering = [[next-action]] (fase 5, "Pesquisar…", p66); purpose/vision questions mean phases 1-2 are unresolved (the p112 stall diagnostic); stray questions are [[capture]] → [[clarify]] items (p270).
+- Created [[questions-as-brainstorming]]; inbound links added from [[brainstorming]], [[natural-planning-model]], [[clarify]], [[separate-the-phases]]. Index count 6 → 7 syntheses.
+
 ## [2026-10-01] query  | What is thinking about "purpose and principles" for a task/project? Example? Value?
 
 - Answered from [[natural-planning-model]], which covered phase 1 only as a short section: the dinner example wasn't unpacked per phase, the "Eu daria total liberdade desde que…" test had no usable framing, and two of the six benefits of asking why ("alinha recursos", "motiva") were named without quotes.

@@ -130,6 +130,7 @@ loose sheets over notebooks so pages can go into the inbox (p272).
 - Phases 1–2 and the top [[horizons-of-focus]] are the same questions at different scales.
 - Which projects deserve it: the ones still on your mind after a [[next-action]] is set, and the ones attracting random ideas (p268).
 - Phase 1 on its own, in depth (what propósito vs. princípios actually are, the "desde que…" test, when to bother): [[purpose-and-principles]].
+- Where a *list of open questions* about a task belongs across the phases: [[questions-as-brainstorming]].
 - Applied to a note template for processing inbox items: [[inbox-processing-template]].
 - Horizontal [[clarify]] tree vs. this vertical model, field by field: [[horizontal-vs-vertical-planning]].
 

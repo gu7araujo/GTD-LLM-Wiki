@@ -45,3 +45,4 @@ continuously.
 - [[gtd-method]] — holds the verbatim p59 quote and the five-step list.
 - [[allen-gtd-book-notes-source]] — "the five steps must be separated in time" (p59).
 - [[capture]] · [[clarify]] · [[organize]] · [[weekly-review]] — the phases and their re-run cadence.
+- [[questions-as-brainstorming]] — the same separate-passes discipline applied to raising vs. answering questions.
